@@ -3,5 +3,7 @@
 
     <string name="app_name">MyWebBrowser</string>
     <string name="default_url">http://www.google.com</string>
+    <string name="default_GO">GO</string>
+    <string name="default_error">The Webpage Should Be Displayed Here.</string>
 
 </resources>

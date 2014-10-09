@@ -21,7 +21,7 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/url_editText"
-        android:text="The webpage should be displayed here." />
+        android:text="@string/default_error" />
 
     <Button
         android:id="@+id/button_go"
@@ -30,6 +30,6 @@
         android:layout_alignBottom="@+id/url_editText"
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:text="GO" />
+        android:text="@string/default_GO" />
 
 </RelativeLayout>
